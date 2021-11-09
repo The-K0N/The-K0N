@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya Khoirrahman 👋
 
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
+[<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
 ## I'm a Student !!!
 
