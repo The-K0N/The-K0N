@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Surya Khoirrahman 👋
 
-<!--
-**The-K0N/The-K0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Gmail" src="https://img.shields.io/badge/hello.suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-Here are some ideas to get you started:
+## I'm a Student !!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m learned Web designer, Flutter and Graphic Design 😊
+
+### Connect with me:
+
+<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+
+
+![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
