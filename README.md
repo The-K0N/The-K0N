@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya Khoirrahman 👋
 
-<img alt="Gmail" src="https://img.shields.io/badge/hello.suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[<img alt="Gmail" src="https://img.shields.io/badge/hello.suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
 ## I'm a Student !!!
 
@@ -8,9 +8,12 @@
 
 ### Connect with me:
 
-<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+[<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
 
 
 ![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
+
+[INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
+[EMAIL]: mailto:hello.suryakhoirrahman1@gmail.com
