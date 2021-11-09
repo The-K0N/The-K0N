@@ -16,4 +16,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
-[EMAIL]: mailto:hello.suryakhoirrahman1@gmail.com
+[EMAIL]: mailto:suryakhoirrahman1@gmail.com
