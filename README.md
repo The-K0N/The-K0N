@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
-[<img alt="Twitter" src="https://img.shields.io/badge/candu_kafein %20-%00ffff.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][TWITTER]
+[<img alt="Twitter" src="https://img.shields.io/badge/candu_kafein %20-%7FFFD4.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][TWITTER]
 
 ![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
 
