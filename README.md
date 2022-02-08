@@ -8,7 +8,7 @@
 
 - 🌱 I’m learned Web designer, Flutter and Graphic Design 😊
 
-![71516559_2551256878435397_140303155492552704_n](https://user-images.githubusercontent.com/73377350/140938226-7138234f-bded-4123-af02-01232f6dd52a.png)
+![71516559_2551256878435397_140303155492552704_n](https://user-images.githubusercontent.com/73377350/152960190-06fc77f5-3290-4306-92b6-44b649ce25a7.jpg)
 
 
 ### Connect with me:
