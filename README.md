@@ -13,7 +13,7 @@
 
 [<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
 [<img alt="Twitter" src="https://img.shields.io/badge/candu_kafein %20-%7FFFD4.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][TWITTER]
-
+[<img alt="Facebook" src="https://img.shields.io/badge/Surya Khoirrahman %20-1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][FACEBOOK]
 
 ![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
 
@@ -21,4 +21,5 @@
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
 [TWITTER]: https://www.twitter.com/candu_kafein
+[FACEBOOK]: https://www.facebook.com/surya_khoirrahman
 [EMAIL]: mailto:suryakhoirrahman1@gmail.com
