@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h5 align="left" >I'm a fresh graduate from Bumigora University, Computer Science. My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field. I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>
-<h5 align="left" >My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field. I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>
-<h5 align="left" >I'm a fresh graduate from Bumigora University, Computer Science. My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field. I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>
+<h5 align="left" >I'm a fresh graduate from Bumigora University, Computer Science.</h5>
+<h5 align="left" >My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field.</h5>
+<h5 align="left" >I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>
 
 <h3>🛠 Tech Stack</h3>
 
