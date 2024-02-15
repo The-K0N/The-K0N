@@ -1,4 +1,4 @@
-# Hi there, I'm Surya Khoirrahman 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚞𝚛𝚢𝚊 𝙺𝚑𝚘𝚒𝚛𝚛𝚊𝚑𝚖𝚊𝚗 ( кση ) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Surya Khoirrahman ( кση ) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
