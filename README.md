@@ -23,14 +23,11 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][INSTAGRAM]
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
+
+![кση Github Stats](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 ![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
-
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
-</div>
-
-
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
 [LINKEDIN]: https://www.linkedin.com/in/surya-khoirrahman-b41493231
