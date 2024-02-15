@@ -24,7 +24,12 @@
 
 
 
-![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
+![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
+
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-K0N&layout=compact&theme=blueberry)
+</div>
+
 
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
