@@ -1,4 +1,4 @@
-# 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚞𝚛𝚢𝚊 𝙺𝚑𝚘𝚒𝚛𝚛𝚊𝚑𝚖𝚊𝚗 ( кση ) 👋
+# 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚞𝚛𝚢𝚊 𝙺𝚑𝚘𝚒𝚛𝚛𝚊𝚑𝚖𝚊𝚗 ( кση ) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
@@ -11,7 +11,7 @@
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Surya Khoirrahman %20-1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][FACEBOOK]
 
-[<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>]
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ![SuryaKhoirrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&theme=radical)
 
