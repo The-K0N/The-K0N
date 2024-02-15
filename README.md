@@ -1,10 +1,8 @@
 # Hi there, I'm Surya Khoirrahman ( кση ) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<div style="margin-right: 30px">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h5 align="justify" >I'm a fresh graduate from Bumigora University, Computer Science. My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field. I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>
+<h5 align="justify" >I'm a fresh graduate from Bumigora University, Computer Science. My educational background in Computer Science provides a strong foundation for me to continuously learn and refine skills in the technology field. I'm a Freelance Enthusiastic in Web development, UI/UX Design, and Data Science, eager to contribute to team success through hard work, attention to detail, and problem solving. Motivated to learn and develop in the company.</h5>&nbsp&nbsp&nbsp
 
 <h3>🛠 Tech Stack</h3>
 
