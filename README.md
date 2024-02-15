@@ -1,6 +1,6 @@
 # Hi there, I'm Surya Khoirrahman ( кση ) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
 
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
