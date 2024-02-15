@@ -2,6 +2,13 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; PHP | Javascript | Python |
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind | Laravel |
+- 🛢 &nbsp; MySQL |
+- 🔧 &nbsp; Git | Postman API | Figma | VS Code |
+
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
 
