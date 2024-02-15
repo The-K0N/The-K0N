@@ -15,6 +15,8 @@
 ### Connect with Me :
 
 
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][INSTAGRAM]
+
 [<img alt="Instagram" src="https://img.shields.io/badge/surya_khoirrahman %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Surya Khoirrahman %20-1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][FACEBOOK]
