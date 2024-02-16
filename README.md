@@ -14,11 +14,9 @@
 - 🔧 &nbsp; Git | Postman API | Figma | VS Code |
 
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
 
 #### ♾️ Connect with Me
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][LINKEDIN] &nbsp; [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][INSTAGRAM]
 
