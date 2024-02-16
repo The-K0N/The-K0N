@@ -23,9 +23,9 @@
 #### 📊 GitHub Statistics :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&locale=en&theme=tokyonight" alt="The-K0N" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=The-K0N&&theme=tokyonight" alt="The-K0N" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=The-K0N&&theme=tokyonight" alt="The-K0N" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
 
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
