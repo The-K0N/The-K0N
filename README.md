@@ -23,7 +23,7 @@
 
 #### 📊 GitHub Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&locale=en&theme=tokyonight" alt="The-K0N" /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&locale=en&theme=tokyonight" alt="The-K0N" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
 
 <p></p>
 
