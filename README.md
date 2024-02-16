@@ -15,15 +15,18 @@
 
 [<img alt="Gmail" src="https://img.shields.io/badge/suryakhoirrahman1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
-### Connect with Me :
+#### ♾️ Connect with Me :
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][LINKEDIN] &nbsp; [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][INSTAGRAM]
 
-### 📊 GitHub Statistics :
+
+#### 📊 GitHub Statistics :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=The-K0N&show_icons=true&locale=en&theme=tokyonight" alt="The-K0N" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayuxxx&&theme=tokyonight" alt="The-K0N" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=The-K0N&&theme=tokyonight" alt="The-K0N" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=The-K0N&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="The-K0N" /></p>
+
 
 [INSTAGRAM]: https://www.instagram.com/surya_khoirrahman
 [LINKEDIN]: https://www.linkedin.com/in/surya-khoirrahman-b41493231
